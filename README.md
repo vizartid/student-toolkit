@@ -1,3 +1,96 @@
+Siap! Berikut adalah README.md dengan struktur yang sama seperti sebelumnya, namun sudah ditambahkan tools tambahan yang memiliki student plan, lengkap dengan masa berlaku, jenis akses, atau bentuk diskon.
+
+
+---
+
+# 🎓 itera-student-toolkit
+
+Kumpulan tools, software, dan layanan online yang **gratis atau mendapat diskon khusus untuk mahasiswa**, terutama mahasiswa **ITERA**. Cocok untuk mendukung pengembangan skill di bidang teknologi, desain, data, dan inovasi digital.
+
+> 📌 Semua layanan di bawah **legal dan aman**, tinggal verifikasi pakai email kampus (.ac.id).
+
+---
+
+## ✨ Highlighted Tools
+
+| Logo | Nama | Benefit | Masa Berlaku |
+|------|------|---------|--------------|
+| ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat-square) | [GitHub Student Developer Pack](https://education.github.com/pack) | Akses gratis ke domain, server, tools coding, CI/CD, AI, dan cloud | Sepanjang masih berstatus mahasiswa |
+| ![Notion](https://img.shields.io/badge/-Notion-black?logo=notion&style=flat-square) | [Notion Student Plan](https://www.notion.so/students) | Upgrade gratis ke Notion Pro | Selama email .edu/.ac.id aktif |
+| ![Figma](https://img.shields.io/badge/-Figma-black?logo=figma&style=flat-square) | [Figma for Education](https://www.figma.com/education/) | Figma Pro gratis untuk tim & personal | 2 tahun (dapat diperpanjang) |
+| ![JetBrains](https://img.shields.io/badge/-JetBrains-black?logo=jetbrains&style=flat-square) | [JetBrains Student License](https://www.jetbrains.com/community/education/#students) | Semua IDE (IntelliJ, PyCharm, dsb) gratis | 1 tahun (dapat diperpanjang) |
+| ![Unity](https://img.shields.io/badge/-Unity-black?logo=unity&style=flat-square) | [Unity Student Plan](https://unity.com/products/unity-student) | Unity Pro dengan fitur cloud & asset store | 1 tahun |
+| ![Autodesk](https://img.shields.io/badge/-Autodesk-black?logo=autodesk&style=flat-square) | [Autodesk for Students](https://www.autodesk.com/education/edu-software/overview) | AutoCAD, Fusion 360, Revit dll gratis | 1 tahun (dapat diperpanjang) |
+
+---
+
+## 🛠️ Tools Tambahan dengan Student Plan
+
+| Logo | Nama | Manfaat | Masa Berlaku |
+|------|------|---------|--------------|
+| ![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon-aws&style=flat-square) | [AWS Educate](https://aws.amazon.com/education/awseducate/) | Kredit cloud & pelatihan AWS | Sepanjang jadi mahasiswa |
+| ![IBM](https://img.shields.io/badge/-IBM-black?logo=ibm&style=flat-square) | [IBM Academic Initiative](https://developer.ibm.com/academic/) | Akses Watson AI, Quantum, Cloud Tools | Tanpa batas selama akun aktif |
+| ![Canva](https://img.shields.io/badge/-Canva-black?logo=canva&style=flat-square) | [Canva for Education](https://www.canva.com/education/) | Upgrade ke Canva Pro | Selama verifikasi email kampus |
+| ![Tableau](https://img.shields.io/badge/-Tableau-black?logo=tableau&style=flat-square) | [Tableau for Students](https://www.tableau.com/academic/students) | Tableau Desktop & Prep Builder gratis | 1 tahun |
+| ![Lucidchart](https://img.shields.io/badge/-Lucidchart-black?logo=lucidchart&style=flat-square) | [Lucidchart Education](https://www.lucidchart.com/pages/usecase/education) | Akses Pro: diagram, alur sistem | 1 tahun |
+| ![Overleaf](https://img.shields.io/badge/-Overleaf-black?logo=overleaf&style=flat-square) | [Overleaf Student Plan](https://www.overleaf.com/edu) | Overleaf Premium gratis | Sepanjang terhubung ke email kampus |
+| ![Miro](https://img.shields.io/badge/-Miro-black?logo=miro&style=flat-square) | [Miro Education Plan](https://miro.com/education-whiteboard/) | Fitur premium untuk kolaborasi tim | Selama aktif di institusi pendidikan |
+| ![Slack](https://img.shields.io/badge/-Slack-black?logo=slack&style=flat-square) | [Slack for Education](https://slack.com/intl/en-id/education) | Upgrade gratis workspace Slack | Selama akun institusi aktif |
+
+---
+
+## 🧠 Tips Verifikasi
+
+- Gunakan email kampus: `namakamu@students.itera.ac.id`
+- Simpan kartu tanda mahasiswa (KTM) atau surat aktif kuliah
+- Beberapa platform menerima verifikasi melalui **SheerID** atau **Student Beans**
+
+---
+
+## 🤝 Kontribusi
+
+Ingin menambahkan tools baru?  
+Buka `Pull Request` atau ajukan melalui [Issue](https://github.com/Myfza/itera-student-toolkit/issues).
+
+---
+
+## 📘 Lisensi
+
+[MIT License](LICENSE) – Bebas digunakan & dimodifikasi untuk kebutuhan edukasi.
+
+---
+
+## 🧭 Daftar Isi
+
+- [✨ Highlighted Tools](#-highlighted-tools)
+- [🛠️ Tools Tambahan dengan Student Plan](#️-tools-tambahan-dengan-student-plan)
+- [🧠 Tips Verifikasi](#-tips-verifikasi)
+- [🤝 Kontribusi](#-kontribusi)
+- [📘 Lisensi](#-lisensi)
+
+---
+
+> Dibuat oleh [@Myfza](https://github.com/Myfza) — Mahasiswa Rekayasa Instrumentasi & Automasi, ITERA  
+> Made with ❤️ for fellow students striving to build & innovate.
+
+
+---
+
+✅ Next Step:
+
+Kirim sebagai file README.md?
+
+Mau saya upload ke repo itera-student-toolkit awal?
+
+Mau tambah file assets/, LICENSE, dan file markdown TOC generator?
+
+
+Tinggal bilang saja, akan saya bantu semua setup awalnya.
+
+
+
+
+
 # 🎓 Akses Tools AI & Developer Gratis untuk Mahasiswa `@student.itera.ac.id`
 
 Sebagai mahasiswa aktif **Institut Teknologi Sumatera (ITERA)**, kamu bisa mendapatkan akses **premium secara GRATIS** ke berbagai tools AI, Cloud, dan Software Developer ternama di dunia. Cukup gunakan email kampus `@student.itera.ac.id`.
