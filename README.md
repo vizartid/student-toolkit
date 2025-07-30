@@ -1,4 +1,5 @@
-# 🎓 itera-student-toolkit
+# 🎓 Akses Tools AI & Developer Gratis untuk Mahasiswa `@student.itera.ac.id`
+
 
 Repositori ini berisi tools dan layanan online yang **gratis atau mendapat diskon khusus untuk mahasiswa**, khususnya mahasiswa **ITERA**. Semua tools berikut telah diverifikasi memiliki **Student Plan** via email kampus `.ac.id`.
 
