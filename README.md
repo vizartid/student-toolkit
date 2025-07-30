@@ -8,82 +8,95 @@ Repositori ini berisi tools dan layanan online yang **gratis atau mendapat disko
 
 | Nama | Manfaat | Masa Berlaku |
 |------|---------|--------------|
-| 🐙 **GitHub Student Developer Pack** | Copilot, JetBrains, DigitalOcean & lebih | 1 tahun, bisa diperpanjang |
-| 🧠 **Cursor Pro for Students** | IDE AI lengkap via email kampus | 1 tahun gratis 1 |
+| ![🐙 GitHub Pack](https://img.shields.io/badge/GitHub%20Pack-Developer%20Tools-blue) [**GitHub Student Developer Pack**](https://education.github.com/pack) | 100+ layanan dev: domain, hosting, API, dsb. | Selama status mahasiswa aktif |
+| ![💻 JetBrains](https://img.shields.io/badge/JetBrains-IDEs%20Gratis-orange) [**JetBrains Student License**](https://www.jetbrains.com/community/education/#students) | Semua IDE JetBrains: IntelliJ, PyCharm, dsb. | Selama kuliah |
+| ![☁️ Heroku](https://img.shields.io/badge/Heroku-Hosting%20Gratis-purple) [**Heroku**](https://www.heroku.com/) | Cloud app hosting (via GitHub Pack) | Selamanya aktif |
 
 ---
 
-## ☁️ Cloud & AI Services
+## 🛠 Developer Tools
 
-| Nama | Benefit | Masa Berlaku |
+| Nama | Manfaat | Masa Berlaku |
 |------|---------|--------------|
-| **AWS Educate** | Kredits pelatihan & lab AWS, job board | Gratis selama mahasiswa 2 |
-| **Microsoft Azure for Students** | $100 kredit + akses layanan AI/ML | 12 bulan |
-| **Google Cloud for Students** | $100–$300 kredit, Vertex AI, Firebase | 12 bulan |
+| ![🧪 Replit](https://img.shields.io/badge/Replit-AI%20IDE%20Online-blueviolet) [**Replit Hacker Plan**](https://replit.com/) | Coding online & AI tools (via GitHub Pack) | 1 tahun |
+| ![🌍 DigitalOcean](https://img.shields.io/badge/DigitalOcean-%24200%20Credit-blue) [**DigitalOcean**](https://www.digitalocean.com/education) | $200 credit for students | 60 hari |
+| ![🚀 Vercel](https://img.shields.io/badge/Vercel-Frontend%20Hosting-black) [**Vercel**](https://vercel.com/) | Hosting gratis untuk Next.js/React | Selamanya »
 
 ---
 
-## 💻 Developer & Productivity Tools
+## 🎨 Design & Kreatif
 
-| Nama | Benefit | Masa Berlaku |
+| Nama | Manfaat | Masa Berlaku |
 |------|---------|--------------|
-| **JetBrains Student License** | IDE premium JetBrains (IntelliJ, PyCharm, dll) | 1 tahun, bisa diperpanjang |
-| **JetBrains Academy** | Kursus interaktif (Python, Java, Kotlin) | Gratis sebagai mahasiswa |
-| **Educative.io (via GitHub)** | 6 bulan gratis + diskon hingga ~50% | 6 bulan + lifetime diskon 3 |
-| **Cursor IDE for Students** | Cursor Pro penuh selama satu tahun | 1 tahun 4 |
-| **DigitalOcean Education Credit** | $200 kredit hosting cloud via GitHub pack | 12 bulan |
-| **Hack The Box Edu Plan** | Diskon / akses HTB Academy cybersecurity | Bulanan via email kampus |
-| **Miro Education Plan** | Unlimited boards dan guest editors | Selama status mahasiswa aktif |
-| **Slack for Education** | Diskon ~85% ke plan Pro/Biz+ untuk lembaga pendidikan | Selama akun institusi aktif |
-| **Trello Edu Premium** | Pro plan gratis untuk manajemen proyek | Selama verifikasi aktif |
-| **Typora Markdown Editor** | Diskon pelajar (~15%) | Lisensi seumur hidup |
-| **ProtonMail Edu Plan** | Email terenkripsi & cloud diskon | Selama status mahasiswa |
-| **Zotero Cloud Sync** | Referensi akademik gratis seumur hidup | Gratis untuk akademisi |
-| **LaTeX Workshop (VSCode Plugin)** | Plugin LaTeX gratis untuk mahasiswa teknik | Gratis |
+| ![🧠 Figma](https://img.shields.io/badge/Figma-Edu%20Pro%20Access-purple) [**Figma for Education**](https://education.figma.com/) | Akses Figma Pro & FigJam | Mahasiswa aktif |
+| ![📐 Canva](https://img.shields.io/badge/Canva-Canva%20Pro%20Gratis-green) [**Canva for Education**](https://www.canva.com/education/) | Canva Pro gratis dengan email kampus | Hingga lulus |
 
 ---
 
-## 📦 Design, Visual & Note-taking
+## ☁️ Cloud & Data
 
-| Nama | Benefit | Masa Berlaku |
+| Nama | Manfaat | Masa Berlaku |
 |------|---------|--------------|
-| **Figma Education Plan** | Figma Pro & FigJam gratis | Hingga lulus |
-| **Canva for Education** | Canva Pro penuh | Selama email kampus aktif |
-| **Lucidchart & Gliffy Edu** | Akses Pro diagram & flowchart | 1 tahun |
-| **Overleaf Student Plan** | LaTeX kolaboratif Premium | Sepanjang email kampus terhubung |
-| **Tableau for Students** | Tableau Desktop & Prep Builder gratis | 1 tahun |
+| ![🌩 AWS Educate](https://img.shields.io/badge/AWS%20Educate-Cloud%20Credit-yellow) [**AWS Educate**](https://aws.amazon.com/education/awseducate/) | Kredit AWS & pelatihan | 12 bulan |
+| ![💻 GCP](https://img.shields.io/badge/Google%20Cloud-%24300%20Credit-blue) [**Google Cloud Platform**](https://cloud.google.com/edu/students) | Kredit via GitHub Pack | 12 bulan |
+| ![📈 Tableau](https://img.shields.io/badge/Tableau-Student%20Licence-orange) [**Tableau for Students**](https://www.tableau.com/academic/students) | Visualisasi data premium | 1 tahun |
 
 ---
 
-## 🔢 STEM & Riset Akademik
+## 🧠 AI & Machine Learning Tools
 
-| Nama | Benefit | Masa Berlaku |
+| Nama | Manfaat | Masa Berlaku |
 |------|---------|--------------|
-| **MATLAB & Simulink Student Suite** | Lisensi tahunan simulasi & data science | 1 tahun, bisa diperpanjang |
-| **Wolfram Alpha Pro for Students** | Solver lanjutan & Wolfram Language | Selama status pelajar |
+| ![🤖 Hugging Face](https://img.shields.io/badge/Hugging%20Face-AI%20Model%20Hosting-yellow) [**Hugging Face**](https://huggingface.co/) | Model hosting, API interface | Gratis selamanya |
+| ![🧠 Google Colab](https://img.shields.io/badge/Google%20Colab-Free%20GPU%20Notebook-green) [**Google Colab**](https://colab.research.google.com/) | Jupyter notebook + GPU gratis | Gratis (dengan limit) |
+| ![🔵 Azure AI](https://img.shields.io/badge/Azure%20for%20Students-%24100%20Credit-blue) [**Azure for Students**](https://azure.microsoft.com/en-us/free/students/) | Kredit $100 AI/ML services | 12 bulan |
+| ![📊 Kaggle](https://img.shields.io/badge/Kaggle-Datasets%20%26%20Competitions-orange) [**Kaggle**](https://www.kaggle.com/) | Dataset, kompetisi, notebook GPU | Gratis selamanya |
 
 ---
 
-## ✅ Tips Verifikasi & Penggunaan
+## 📡 Networking Tools
 
-- **Email kampus `@student.itera.ac.id`** wajib digunakan untuk pendaftaran.
-- Siapkan **KTM** atau surat aktif sebagai dokumentasi untuk verifikasi (SheerID/Student Beans mungkin diperlukan).
-- Catat **tanggal aktivasi dan masa kadaluarsa** untuk pengelolaan perpanjangan.
-- Beberapa layanan seperti AWS Educate, HTB, Miro, Slack memerlukan domain institusi untuk akses khusus akademik.
+| Nama | Manfaat | Masa Berlaku |
+|------|---------|--------------|
+| ![🖧 Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-green) [**Wireshark**](https://www.wireshark.org/) | Analisis paket jaringan | Gratis selamanya |
+| ![🖥️ CODESYS](https://img.shields.io/badge/CODESYS-Free%20PLC%20IDE-goldenrod) [**CODESYS IDE**](https://www.codesys.com/) | SoftPLC programming gratis | Gratis selamanya |
+
+---
+
+## 🛠 Automation, Robotics & PLC Tools
+
+| Nama | Manfaat | Masa Berlaku |
+|------|---------|--------------|
+| ![🤖 Altair](https://img.shields.io/badge/Altair%20Student-CAE%20%26%20Robotics-brown) [**Altair Student Edition**](https://web.altair.com/altair-student-edition) | >50 software: simulation, robotics, control, data science | Gratis 1 tahun & renewable 1 |
+| ![🔧 Visual Components](https://img.shields.io/badge/Visual%20Components-3D%20Robot%20Simulation-blueviolet) [**Visual Components Essentials**](https://www.visualcomponents.com/companies/academia/) | Simulasi manufaktur & robot industri | Trial student 30 hari 2 |
+| ![⚙️ Codesys](https://img.shields.io/badge/CODESYS-Free%20SoftPLC-goldenrod) [**CODESYS Development System**](https://www.codesys.com/) | IDE PLC gratis untuk programming IEC 61131‑3 | Gratis selamanya sebagai IDE 3 |
+| ![📘 Omron Sysmac](https://img.shields.io/badge/Omron%20Sysmac-Student%20License-blue) [**Sysmac Studio Student License**](https://automation.omron.com/en/us/news/sysmac-studio-student-licensing-annoucement) | Software Omron PLC dan robot grafik | Gratis 6 bulan untuk pelajar 4 |
+| ![📌 AutomationDirect](https://img.shields.io/badge/AutomationDirect-Free%20PLC%20Software-green) [**CLICK & Do-more Designer**](https://about.automationdirect.com/education/free_software.html) | Download software PLC gratis & simulator | Gratis untuk pendidikan 5 |
 
 ---
 
-## 🧭 Daftar Isi
 
-- [Highlight Tools](#‑highlighted-student-tools)  
-- [Cloud & AI Services](#‑cloud‑ai-services)  
-- [Developer & Productivity Tools](#‑developer‑productivity-tools)  
-- [Design & Visual Tools](#‑design‑visual‑note‑taking)  
-- [STEM & Akademik](#‑stem‑riset‑akademik)  
-- [Tips Verifikasi](#‑tips‑verifikasi‑penggunaan)  
-- [Kontribusi & Lisensi](#‑kontribusi‑lisensi)
+## ✅ Tips Verifikasi
+
+- Gunakan email kampus `.ac.id`.
+- Siapkan KTM atau surat aktif, beberapa layanan pakai verifikasi via SheerID.
+- Periksa eligibility khusus berdasarkan regional/institusi sebelum mendaftar.
 
 ---
+
+> Diperbarui terakhir: **Juli 2025**  
+> Lisensi: Gratis untuk edukasi & non-komersial penggunaan
+
+## 📑 Daftar Isi
+
+- [📦 Tools Utama (Developer & Desain)](#-tools-utama-developer--desain)  
+- [🧠 AI & Conversational Tools](#-ai--conversational-tools)  
+- [🧠 AI & Machine Learning Tools](#-ai--machine-learning-tools)  
+- [🌐 Networking Tools](#-networking-tools)  
+- [🤖 Automation, PLC & Robotic Tools](#-automation-plc--robotic-tools)  
+- [📌 Catatan & Tips](#-catatan--tips)  
+- [👨‍💻 Made by Myfza](#-made-by-myfza)
+
 
 > Dibuat oleh Mahasiswa **ITERA** • [@myfza](https://github.com/myfza)  
 > Kontribusi dan pembaruan? **Pull Request** sangat diterima 🎓
