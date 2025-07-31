@@ -1,81 +1,275 @@
 # 🎓 Akses Tools AI & Developer Gratis untuk Mahasiswa `@student.itera.ac.id`
+# ✨ Student Plan untuk Mahasiswa ITERA ✨
 
+Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang menawarkan akses gratis atau diskon besar khusus untuk mahasiswa Institut Teknologi Sumatera (ITERA) melalui program student plan. Semua layanan dapat diakses menggunakan email institusi `@student.itera.ac.id`.
 
-Repositori ini berisi tools dan layanan online yang **gratis atau mendapat diskon khusus untuk mahasiswa**, khususnya mahasiswa **ITERA**. Semua tools berikut telah diverifikasi memiliki **Student Plan** via email kampus `.ac.id`.
+## 📋 Daftar Isi
 
----
-
-## 📦 Highlighted Student Tools
-
-| Nama | Manfaat | Masa Berlaku |
-|------|---------|--------------|
-| ![🐙 GitHub Pack](https://img.shields.io/badge/GitHub%20Pack-Developer%20Tools-blue) [**GitHub Student Developer Pack**](https://education.github.com/pack) | 100+ layanan dev: domain, hosting, API, dsb. | Selama status mahasiswa aktif |
-| ![💻 JetBrains](https://img.shields.io/badge/JetBrains-IDEs%20Gratis-orange) [**JetBrains Student License**](https://www.jetbrains.com/community/education/#students) | Semua IDE JetBrains: IntelliJ, PyCharm, dsb. | Selama kuliah |
-| ![☁️ Heroku](https://img.shields.io/badge/Heroku-Hosting%20Gratis-purple) [**Heroku**](https://www.heroku.com/) | Cloud app hosting (via GitHub Pack) | Selamanya aktif |
-
----
-
-## 🛠 Developer Tools
-
-| Nama | Manfaat | Masa Berlaku |
-|------|---------|--------------|
-| ![🧪 Replit](https://img.shields.io/badge/Replit-AI%20IDE%20Online-blueviolet) [**Replit Hacker Plan**](https://replit.com/) | Coding online & AI tools (via GitHub Pack) | 1 tahun |
-| ![🌍 DigitalOcean](https://img.shields.io/badge/DigitalOcean-%24200%20Credit-blue) [**DigitalOcean**](https://www.digitalocean.com/education) | $200 credit for students | 60 hari |
-| ![🚀 Vercel](https://img.shields.io/badge/Vercel-Frontend%20Hosting-black) [**Vercel**](https://vercel.com/) | Hosting gratis untuk Next.js/React | Selamanya »
+- [🎒 Mahasiswa Starter Pack](#-mahasiswa-starter-pack)
+- [💻 Developer Pack](#-developer-pack)
+- [🧠 AI & Machine Learning Tools](#-ai--machine-learning-tools)
+- [🎨 Design Tools](#-design-tools)
+- [☁️ Cloud & Data](#️-cloud--data)
+- [🌐 Networking](#-networking)
+- [🤖 Automation and Robotic](#-automation-and-robotic)
+- [🎓 Sertifikasi Gratis](#-sertifikasi-gratis)
+- [✅ Tips Verifikasi Student Plan](#-tips-verifikasi-student-plan)
+- [🧑‍💻 Tentang Pembuat](#-tentang-pembuat)
 
 ---
 
-## 🎨 Design & Kreatif
+## 🎒 Mahasiswa Starter Pack
 
-| Nama | Manfaat | Masa Berlaku |
-|------|---------|--------------|
-| ![🧠 Figma](https://img.shields.io/badge/Figma-Edu%20Pro%20Access-purple) [**Figma for Education**](https://education.figma.com/) | Akses Figma Pro & FigJam | Mahasiswa aktif |
-| ![📐 Canva](https://img.shields.io/badge/Canva-Canva%20Pro%20Gratis-green) [**Canva for Education**](https://www.canva.com/education/) | Canva Pro gratis dengan email kampus | Hingga lulus |
+### 📚 Notion
+**Logo:** 📝
+**Masa Aktif:** Gratis selamanya selama masih mahasiswa
+**Fitur:** Workspace unlimited, integrasi premium, template eksklusif, dan kolaborasi tim tanpa batas
+**Link Registrasi:** [https://www.notion.so/product/notion-for-education](https://www.notion.so/product/notion-for-education)
+
+### 📊 Microsoft Office 365 Education
+**Logo:** 📊
+**Masa Aktif:** Gratis selama status mahasiswa aktif
+**Fitur:** Word, Excel, PowerPoint, Teams, OneDrive 1TB, Outlook, dan aplikasi Office premium lainnya
+**Link Registrasi:** [https://www.microsoft.com/id-id/education/products/office](https://www.microsoft.com/id-id/education/products/office)
+
+### 🔐 1Password
+**Logo:** 🔑
+**Masa Aktif:** 6 bulan gratis, dapat diperpanjang
+**Fitur:** Password manager premium, secure sharing, travel mode, dan advanced security
+**Link Registrasi:** [https://1password.com/students/](https://1password.com/students/)
+
+### 📁 Dropbox
+**Logo:** 📦
+**Masa Aktif:** Gratis selama mahasiswa + 1 tahun setelah lulus
+**Fitur:** Storage 3GB gratis, sinkronisasi perangkat, dan sharing file premium
+**Link Registrasi:** [https://www.dropbox.com/students](https://www.dropbox.com/students)
+
+### 🎧 Spotify Premium Student
+**Logo:** 🎵
+**Masa Aktif:** Diskon 50% selama maksimal 4 tahun
+**Fitur:** Music streaming tanpa iklan, download offline, dan kualitas audio premium
+**Link Registrasi:** [https://www.spotify.com/id/student/](https://www.spotify.com/id/student/)
+
+### 📰 The New York Times
+**Logo:** 📰
+**Masa Aktif:** $1 per minggu selama 4 tahun
+**Fitur:** Akses unlimited artikel, podcast, dan aplikasi mobile premium
+**Link Registrasi:** [https://www.nytimes.com/subscription/education](https://www.nytimes.com/subscription/education)
 
 ---
 
-## ☁️ Cloud & Data
+## 💻 Developer Pack
 
-| Nama | Manfaat | Masa Berlaku |
-|------|---------|--------------|
-| ![🌩 AWS Educate](https://img.shields.io/badge/AWS%20Educate-Cloud%20Credit-yellow) [**AWS Educate**](https://aws.amazon.com/education/awseducate/) | Kredit AWS & pelatihan | 12 bulan |
-| ![💻 GCP](https://img.shields.io/badge/Google%20Cloud-%24300%20Credit-blue) [**Google Cloud Platform**](https://cloud.google.com/edu/students) | Kredit via GitHub Pack | 12 bulan |
-| ![📈 Tableau](https://img.shields.io/badge/Tableau-Student%20Licence-orange) [**Tableau for Students**](https://www.tableau.com/academic/students) | Visualisasi data premium | 1 tahun |
+### 🐙 GitHub Pro
+**Logo:** 🐙
+**Masa Aktif:** Gratis selama mahasiswa melalui GitHub Student Developer Pack
+**Fitur:** Repository private unlimited, GitHub Copilot, GitHub Actions, dan GitHub Pages
+**Link Registrasi:** [https://education.github.com/pack](https://education.github.com/pack)
+
+### 🧠 JetBrains All Products Pack
+**Logo:** 🧠
+**Masa Aktif:** Gratis selama mahasiswa, dapat diperpanjang setiap tahun
+**Fitur:** IntelliJ IDEA Ultimate, PyCharm Professional, WebStorm, dan semua IDE JetBrains
+**Link Registrasi:** [https://www.jetbrains.com/student/](https://www.jetbrains.com/student/)
+
+### 💻 Visual Studio Professional
+**Logo:** 💙
+**Masa Aktif:** Gratis selama mahasiswa
+**Fitur:** IDE lengkap untuk development, debugging tools, dan integrasi cloud
+**Link Registrasi:** [https://visualstudio.microsoft.com/vs/students/](https://visualstudio.microsoft.com/vs/students/)
+
+### 🖥️ VMware Workstation Pro
+**Logo:** 🖥️
+**Masa Aktif:** Gratis untuk keperluan akademik
+**Fitur:** Virtualisasi desktop, multiple OS, snapshot, dan networking tools
+**Link Registrasi:** [https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
+
+### 🌐 Namecheap Domain & Hosting
+**Logo:** 🌐
+**Masa Aktif:** 1 tahun gratis untuk domain .me, hosting diskon
+**Fitur:** Domain gratis, SSL certificate, dan shared hosting dengan diskon
+**Link Registrasi:** [https://nc.me/](https://nc.me/)
+
+### 🔗 Postman
+**Logo:** 🔗
+**Masa Aktif:** Gratis selama mahasiswa
+**Fitur:** API testing, collaboration tools, monitoring, dan documentation
+**Link Registrasi:** [https://www.postman.com/student-program/](https://www.postman.com/student-program/)
 
 ---
 
 ## 🧠 AI & Machine Learning Tools
 
-| Nama | Manfaat | Masa Berlaku |
-|------|---------|--------------|
-| ![🤖 Hugging Face](https://img.shields.io/badge/Hugging%20Face-AI%20Model%20Hosting-yellow) [**Hugging Face**](https://huggingface.co/) | Model hosting, API interface | Gratis selamanya |
-| ![🧠 Google Colab](https://img.shields.io/badge/Google%20Colab-Free%20GPU%20Notebook-green) [**Google Colab**](https://colab.research.google.com/) | Jupyter notebook + GPU gratis | Gratis (dengan limit) |
-| ![🔵 Azure AI](https://img.shields.io/badge/Azure%20for%20Students-%24100%20Credit-blue) [**Azure for Students**](https://azure.microsoft.com/en-us/free/students/) | Kredit $100 AI/ML services | 12 bulan |
-| ![📊 Kaggle](https://img.shields.io/badge/Kaggle-Datasets%20%26%20Competitions-orange) [**Kaggle**](https://www.kaggle.com/) | Dataset, kompetisi, notebook GPU | Gratis selamanya |
+### 🤖 GitHub Copilot
+**Logo:** 🤖
+**Masa Aktif:** Gratis melalui GitHub Student Developer Pack
+**Fitur:** AI code completion, suggestion, dan pair programming assistant
+**Link Registrasi:** [https://education.github.com/pack](https://education.github.com/pack)
+
+### 📊 DataCamp
+**Logo:** 📊
+**Masa Aktif:** 3 bulan gratis, kemudian diskon 50%
+**Fitur:** Course Python, R, SQL, machine learning, dan data science
+**Link Registrasi:** [https://www.datacamp.com/students](https://www.datacamp.com/students)
+
+### 🧮 Mathematica
+**Logo:** 🧮
+**Masa Aktif:** Gratis selama mahasiswa
+**Fitur:** Computational software, symbolic computation, dan data visualization
+**Link Registrasi:** [https://www.wolfram.com/mathematica/pricing/students/](https://www.wolfram.com/mathematica/pricing/students/)
+
+### 🔬 MATLAB
+**Logo:** 🔬
+**Masa Aktif:** Diskon signifikan untuk mahasiswa
+**Fitur:** Technical computing, algorithm development, dan data analysis
+**Link Registrasi:** [https://www.mathworks.com/academia/student_version.html](https://www.mathworks.com/academia/student_version.html)
 
 ---
 
-## 📡 Networking Tools
+## 🎨 Design Tools
 
-| Nama | Manfaat | Masa Berlaku |
-|------|---------|--------------|
-| ![🖧 Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-green) [**Wireshark**](https://www.wireshark.org/) | Analisis paket jaringan | Gratis selamanya |
-| ![🖥️ CODESYS](https://img.shields.io/badge/CODESYS-Free%20PLC%20IDE-goldenrod) [**CODESYS IDE**](https://www.codesys.com/) | SoftPLC programming gratis | Gratis selamanya |
+### 🎨 Adobe Creative Cloud
+**Logo:** 🎨
+**Masa Aktif:** Diskon 60% selama mahasiswa
+**Fitur:** Photoshop, Illustrator, Premiere Pro, After Effects, dan semua aplikasi Adobe
+**Link Registrasi:** [https://www.adobe.com/id/creativecloud/buy/students.html](https://www.adobe.com/id/creativecloud/buy/students.html)
+
+### 🖼️ Canva Pro
+**Logo:** 🖼️
+**Masa Aktif:** Gratis selama mahasiswa
+**Fitur:** Template premium, background remover, brand kit, dan storage unlimited
+**Link Registrasi:** [https://www.canva.com/education/](https://www.canva.com/education/)
+
+### 🎯 Figma Education
+**Logo:** 🎯
+**Masa Aktif:** Gratis selama mahasiswa
+**Fitur:** Unlimited files, version history, team libraries, dan advanced prototyping
+**Link Registrasi:** [https://www.figma.com/education/](https://www.figma.com/education/)
+
+### 🖌️ Sketch
+**Logo:** 🖌️
+**Masa Aktif:** Diskon 50% untuk mahasiswa
+**Fitur:** UI/UX design tools, prototyping, dan collaboration features
+**Link Registrasi:** [https://www.sketch.com/store/edu/](https://www.sketch.com/store/edu/)
 
 ---
 
-## 🛠 Automation, Robotics & PLC Tools
+## ☁️ Cloud & Data
 
-| Nama | Manfaat | Masa Berlaku |
-|------|---------|--------------|
-| ![🤖 Altair](https://img.shields.io/badge/Altair%20Student-CAE%20%26%20Robotics-brown) [**Altair Student Edition**](https://web.altair.com/altair-student-edition) | >50 software: simulation, robotics, control, data science | Gratis 1 tahun & renewable 1 |
-| ![🔧 Visual Components](https://img.shields.io/badge/Visual%20Components-3D%20Robot%20Simulation-blueviolet) [**Visual Components Essentials**](https://www.visualcomponents.com/companies/academia/) | Simulasi manufaktur & robot industri | Trial student 30 hari 2 |
-| ![⚙️ Codesys](https://img.shields.io/badge/CODESYS-Free%20SoftPLC-goldenrod) [**CODESYS Development System**](https://www.codesys.com/) | IDE PLC gratis untuk programming IEC 61131‑3 | Gratis selamanya sebagai IDE 3 |
-| ![📘 Omron Sysmac](https://img.shields.io/badge/Omron%20Sysmac-Student%20License-blue) [**Sysmac Studio Student License**](https://automation.omron.com/en/us/news/sysmac-studio-student-licensing-annoucement) | Software Omron PLC dan robot grafik | Gratis 6 bulan untuk pelajar 4 |
-| ![📌 AutomationDirect](https://img.shields.io/badge/AutomationDirect-Free%20PLC%20Software-green) [**CLICK & Do-more Designer**](https://about.automationdirect.com/education/free_software.html) | Download software PLC gratis & simulator | Gratis untuk pendidikan 5 |
+### ☁️ Amazon Web Services (AWS)
+**Logo:** ☁️
+**Masa Aktif:** $100 kredit gratis + akses AWS Educate
+**Fitur:** EC2, S3, RDS, Lambda, dan layanan cloud computing lainnya
+**Link Registrasi:** [https://aws.amazon.com/education/awseducate/](https://aws.amazon.com/education/awseducate/)
+
+### 🔵 Microsoft Azure
+**Logo:** 🔵
+**Masa Aktif:** $100 kredit gratis + renewal tahunan
+**Fitur:** Virtual machines, databases, AI services, dan development tools
+**Link Registrasi:** [https://azure.microsoft.com/en-us/free/students/](https://azure.microsoft.com/en-us/free/students/)
+
+### ☁️ Google Cloud Platform
+**Logo:** ☁️
+**Masa Aktif:** $300 kredit gratis untuk pemula
+**Fitur:** Compute Engine, Cloud Storage, BigQuery, dan machine learning APIs
+**Link Registrasi:** [https://cloud.google.com/edu](https://cloud.google.com/edu)
+
+### 🗄️ MongoDB Atlas
+**Logo:** 🗄️
+**Masa Aktif:** Kredit $200 melalui GitHub Student Pack
+**Fitur:** Managed database, analytics, dan full-text search
+**Link Registrasi:** [https://education.github.com/pack](https://education.github.com/pack)
 
 ---
 
+## 🌐 Networking
+
+### 🛡️ Cloudflare
+**Logo:** 🛡️
+**Masa Aktif:** Gratis melalui GitHub Student Pack
+**Fitur:** CDN, DNS, DDoS protection, dan SSL certificates
+**Link Registrasi:** [https://education.github.com/pack](https://education.github.com/pack)
+
+### 🔒 NordVPN
+**Logo:** 🔒
+**Masa Aktif:** Diskon hingga 68% untuk mahasiswa
+**Fitur:** VPN premium, cybersec protection, dan server global
+**Link Registrasi:** [https://nordvpn.com/students/](https://nordvpn.com/students/)
+
+### 📡 Wireshark
+**Logo:** 📡
+**Masa Aktif:** Gratis dan open source
+**Fitur:** Network protocol analyzer, packet capture, dan network troubleshooting
+**Link Registrasi:** [https://www.wireshark.org/](https://www.wireshark.org/)
+
+---
+
+## 🤖 Automation and Robotic
+
+### 🔧 Autodesk Fusion 360
+**Logo:** 🔧
+**Masa Aktif:** Gratis selama mahasiswa
+**Fitur:** 3D CAD, CAM, CAE, dan PCB design tools
+**Link Registrasi:** [https://www.autodesk.com/education/edu-software](https://www.autodesk.com/education/edu-software)
+
+### 🤖 Arduino IDE
+**Logo:** 🤖
+**Masa Aktif:** Gratis dan open source
+**Fitur:** Programming environment untuk microcontroller Arduino
+**Link Registrasi:** [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
+
+### 🏭 SolidWorks
+**Logo:** 🏭
+**Masa Aktif:** Gratis melalui program pendidikan ITERA
+**Fitur:** 3D CAD design, simulation, dan manufacturing tools
+**Link Registrasi:** Hubungi lab atau dosen pembimbing di ITERA
+
+---
+
+## 🎓 Sertifikasi Gratis
+
+### 🏆 Coursera for Students
+**Logo:** 🏆
+**Masa Aktif:** Akses gratis ke course tertentu
+**Fitur:** Sertifikat dari universitas ternama, skill-based courses
+**Link Registrasi:** [https://www.coursera.org/student](https://www.coursera.org/student)
+
+### 📜 edX
+**Logo:** 📜
+**Masa Aktif:** Course gratis, sertifikat berbayar dengan diskon
+**Fitur:** Course dari MIT, Harvard, dan universitas top dunia
+**Link Registrasi:** [https://www.edx.org/](https://www.edx.org/)
+
+### 🎯 Udemy Student Discount
+**Logo:** 🎯
+**Masa Aktif:** Diskon hingga 85% untuk course premium
+**Fitur:** Programming, design, business, dan skill development courses
+**Link Registrasi:** [https://www.udemy.com/students/](https://www.udemy.com/students/)
+
+---
+
+## ✅ Tips Verifikasi Student Plan
+
+- **Gunakan Email Institusi:** Selalu gunakan email `@student.itera.ac.id` saat mendaftar
+- **Siapkan Dokumen Pendukung:** Kartu mahasiswa, transkrip nilai, atau surat keterangan mahasiswa aktif
+- **Verifikasi Secara Berkala:** Beberapa layanan memerlukan verifikasi ulang setiap semester atau tahun
+- **Baca Syarat dan Ketentuan:** Pahami durasi masa aktif dan cara perpanjangan
+- **Manfaatkan GitHub Student Pack:** Banyak tools developer tersedia gratis melalui program ini
+- **Simpan Bukti Verifikasi:** Screenshot atau email konfirmasi untuk keperluan di masa depan
+- **Update Status Akademik:** Pastikan status mahasiswa aktif di sistem ITERA
+- **Gunakan VPN jika Diperlukan:** Beberapa layanan mungkin tidak tersedia di Indonesia
+
+---
+
+## 🧑‍💻 Tentang Pembuat
+
+**Muhammad Yusuf Aditiya**
+- [LinkedIn](https://linkedin.com/in/username)
+- [GitHub](https://github.com/username)
+
+---
+
+> **Disclaimer:** Informasi dalam dokumen ini dapat berubah sewaktu-waktu sesuai kebijakan masing-masing penyedia layanan. Pastikan untuk memeriksa syarat dan ketentuan terbaru sebelum mendaftar.
 
 ## ✅ Tips Verifikasi
 
@@ -87,18 +281,6 @@ Repositori ini berisi tools dan layanan online yang **gratis atau mendapat disko
 
 > Diperbarui terakhir: **Juli 2025**  
 > Lisensi: Gratis untuk edukasi & non-komersial penggunaan
-
-## 📑 Daftar Isi
-
-- [📦 Tools Utama (Developer & Desain)](#-tools-utama-developer--desain)  
-- [🧠 AI & Conversational Tools](#-ai--conversational-tools)  
-- [🧠 AI & Machine Learning Tools](#-ai--machine-learning-tools)  
-- [🌐 Networking Tools](#-networking-tools)  
-- [🤖 Automation, PLC & Robotic Tools](#-automation-plc--robotic-tools)  
-- [📌 Catatan & Tips](#-catatan--tips)  
-- [👨‍💻 Made by Myfza](#-made-by-myfza)
-
-
 > Dibuat oleh Mahasiswa **ITERA** • [@myfza](https://github.com/myfza)  
 > Kontribusi dan pembaruan? **Pull Request** sangat diterima 🎓
 
