@@ -1,4 +1,4 @@
-#🎓 Student Plan untuk Mahasiswa ITERA ✨
+# 🎓 Student Plan untuk Mahasiswa ITERA ✨
 
 Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang menawarkan akses gratis atau diskon besar khusus untuk mahasiswa Institut Teknologi Sumatera (ITERA) melalui program student plan. Semua layanan dapat diakses menggunakan email institusi `@student.itera.ac.id`.
 
