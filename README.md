@@ -124,18 +124,9 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 | 🤖 **Automation** | 3 tools | Fusion 360, Arduino IDE, SolidWorks |
 
 ---
-
-## 📈 Update Log
-
-| 📅 **Tanggal** | 🔄 **Perubahan** | 👤 **Editor** |
-|----------------|------------------|---------------|
-| 31 Juli 2025 | Pembuatan dokumen awal dengan logo asli dan platform Indonesia | Muhammad Yusuf Aditiya |
-| - | - | - |
-| - | - | - |
-
+> **⚠️ Disclaimer:** Informasi dalam dokumen ini dapat berubah sewaktu-waktu sesuai kebijakan masing-masing penyedia layanan. Pastikan untuk memeriksa syarat dan ketentuan terbaru sebelum mendaftar.
 ---
 
 > Dibuat oleh Mahasiswa **ITERA** • [@myfza](https://github.com/myfza)  
 > Kontribusi dan pembaruan? **Pull Request** sangat diterima 🎓
-> **⚠️ Disclaimer:** Informasi dalam dokumen ini dapat berubah sewaktu-waktu sesuai kebijakan masing-masing penyedia layanan. Pastikan untuk memeriksa syarat dan ketentuan terbaru sebelum mendaftar.
-> **🔄 Last Updated:** 31 Juli 2025 | **📧 Contact:** Jika ada pertanyaan atau saran, silakan hubungi melalui email institusi ITERA.
+
