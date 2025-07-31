@@ -13,7 +13,6 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 - [☁️ Cloud & Data](#️-cloud--data)
 - [🌐 Networking](#-networking)
 - [🤖 Automation and Robotic](#-automation-and-robotic)
-- [🎓 Sertifikasi Gratis](#-sertifikasi-gratis)
 - [✅ Tips Verifikasi Student Plan](#-tips-verifikasi-student-plan)
 - [🧑‍💻 Tentang Pembuat](#-tentang-pembuat)
 
@@ -95,27 +94,6 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 ---
 
-## 🎓 Sertifikasi Gratis
-
-### 🌍 Platform Internasional
-
-| Platform | 🕒 Masa Aktif | 💰 Harga | 🎯 Fitur Utama | 🔗 Link |
-|----------|---------------|----------|----------------|---------|
-| ![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=flat&logo=coursera&logoColor=white) **Coursera** | Akses gratis ke course tertentu | Gratis - Berbayar | Sertifikat dari universitas ternama, skill-based courses | [🔗](https://www.coursera.org/campus/learn-more) |
-| ![edX](https://img.shields.io/badge/edX-02262B?style=flat&logo=edx&logoColor=white) **edX** | Course gratis, sertifikat diskon | Gratis - $99 | Course dari MIT, Harvard, universitas top dunia | [🔗](https://www.edx.org/) |
-| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) **Udemy** | Diskon hingga 85% | $9.99 - $199.99 | Programming, design, business, skill development courses | [🔗](https://www.udemy.com/students/) |
-
-### 🇮🇩 Platform Indonesia
-
-| Platform | 🕒 Masa Aktif | 💰 Harga | 🎯 Fitur Utama | 🔗 Link |
-|----------|---------------|----------|----------------|---------|
-| ![Dicoding](https://img.shields.io/badge/Dicoding-1F4FFF?style=flat&logo=book&logoColor=white) **Dicoding** | Program beasiswa tersedia | Gratis - Berbayar | Kurikulum standar internasional dari Google, Microsoft, AWS, IBM, dan LINE | [🔗](https://www.dicoding.com) |
-| ![Skill Academy](https://img.shields.io/badge/Skill_Academy-FF6B35?style=flat&logo=graduation-cap&logoColor=white) **Skill Academy** | Diskon untuk mahasiswa | Rp99.000 - Rp500.000 | Kursus bersertifikat dengan mentor profesional | [🔗](https://skillacademy.com/) |
-| ![MySkill](https://img.shields.io/badge/MySkill-4A90E2?style=flat&logo=tools&logoColor=white) **MySkill** | Program beasiswa mahasiswa | Gratis - Rp299.000 | Bootcamp dan kelas praktis untuk karir | [🔗](https://myskill.id/) |
-| ![BuildWithAngga](https://img.shields.io/badge/BuildWithAngga-6C5CE7?style=flat&logo=code&logoColor=white) **BuildWithAngga** | Diskon mahasiswa tersedia | Rp149.000 - Rp499.000 | Full-stack development, UI/UX Design | [🔗](https://buildwithangga.com/) |
-
----
-
 ## ✅ Tips Verifikasi Student Plan
 
 | 🔍 **Langkah Verifikasi** | ✅ **Checklist** |
@@ -142,7 +120,6 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 | ☁️ **Cloud & Data** | 4 platforms | AWS, Azure, GCP dengan kredit gratis |
 | 🌐 **Networking** | 3 tools | Cloudflare, NordVPN, Wireshark |
 | 🤖 **Automation** | 3 tools | Fusion 360, Arduino IDE, SolidWorks |
-| 🎓 **Sertifikasi** | 7 platforms | Coursera, edX, Udemy + 4 platform Indonesia |
 
 ---
 
