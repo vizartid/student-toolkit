@@ -1,4 +1,8 @@
-# ✨ Student Plan untuk Mahasiswa ITERA ✨
+| Platform | 🕒 Masa Aktif | 💰 Harga | 🎯 Fitur Utama | 🔗 Link |
+|----------|---------------|----------|----------------|---------|
+| ![Dicoding](https://img.shields.io/badge/Dicoding-1F4FFF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCAxMEwxMy4wOSAxNS43NEwxMiAyMkwxMC45MSAxNS43NEw0IDEwTDEwLjkxIDguMjZMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white) **Dicoding** | Program beasiswa tersedia | Gratis - Berbayar | Kurikulum standar internasional dari Google, Microsoft, AWS, IBM, dan LINE | [🔗](https://www.dicoding.com) |
+| ![Skill Academy](https://img.shields.io/badge/Skill_Academy-FF6B35?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCAxMEwxMy4wOSAxNS43NEwxMiAyMkwxMC45MSAxNS43NEw0IDEwTDEwLjkxIDguMjZMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white) **Skill Academy** | Diskon untuk mahasiswa | Rp99.000 - Rp500.000 | Kursus bersertifikat dengan mentor profesional | [🔗](https://skillacademy.com/) |
+| ![MySkill](https://img.shields.io/badge/MySkill-4A90E2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCAx# ✨ Student Plan untuk Mahasiswa ITERA ✨
 
 Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang menawarkan akses gratis atau diskon besar khusus untuk mahasiswa Institut Teknologi Sumatera (ITERA) melalui program student plan. Semua layanan dapat diakses menggunakan email institusi `@student.itera.ac.id`.
 
@@ -23,12 +27,11 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 | Tools | 🕒 Masa Aktif | 🎯 Fitur Utama | 🔗 Link |
 |-------|---------------|----------------|---------|
-| ![Notion](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png) **Notion** | Gratis selamanya selama mahasiswa | Workspace unlimited, integrasi premium, template eksklusif, kolaborasi tim tanpa batas | [🔗](https://www.notion.so/product/notion-for-education) |
-| ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg) **Office 365** | Gratis selama status mahasiswa aktif | Word, Excel, PowerPoint, Teams, OneDrive 1TB, Outlook, aplikasi Office premium | [🔗](https://www.microsoft.com/id-id/education/products/office) |
-| ![1Password](https://1password.com/img/logo-v1.svg) **1Password** | 6 bulan gratis, dapat diperpanjang | Password manager premium, secure sharing, travel mode, advanced security | [🔗](https://1password.com/students/) |
-| ![Dropbox](https://upload.wikimedia.org/wikipedia/commons/c/cb/Dropbox_logo_2017.svg) **Dropbox** | Gratis selama mahasiswa + 1 tahun setelah lulus | Storage 3GB gratis, sinkronisasi perangkat, sharing file premium | [🔗](https://www.dropbox.com/students) |
-| ![Spotify](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg) **Spotify Premium** | Diskon 50% selama maksimal 4 tahun | Music streaming tanpa iklan, download offline, kualitas audio premium | [🔗](https://www.spotify.com/id/student/) |
-| ![NYT](https://upload.wikimedia.org/wikipedia/commons/0/0e/New_york_times_logo.svg) **New York Times** | $1 per minggu selama 4 tahun | Akses unlimited artikel, podcast, aplikasi mobile premium | [🔗](https://www.nytimes.com/subscription/education) |
+| ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) **Notion** | Gratis selamanya selama mahasiswa | Workspace unlimited, integrasi premium, template eksklusif, kolaborasi tim tanpa batas | [🔗](https://www.notion.so/product/notion-for-education) |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white) **Office 365** | Gratis selama status mahasiswa aktif | Word, Excel, PowerPoint, Teams, OneDrive 1TB, Outlook, aplikasi Office premium | [🔗](https://www.microsoft.com/id-id/education/products/office) |
+| ![1Password](https://img.shields.io/badge/1Password-0094F5?style=flat&logo=1password&logoColor=white) **1Password** | 6 bulan gratis, dapat diperpanjang | Password manager premium, secure sharing, travel mode, advanced security | [🔗](https://1password.com/students/) |
+| ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white) **Spotify Premium** | Diskon 50% selama maksimal 4 tahun | Music streaming tanpa iklan, download offline, kualitas audio premium | [🔗](https://www.spotify.com/id/student/) |
+| ![NYT](https://img.shields.io/badge/New_York_Times-000000?style=flat&logo=nytimes&logoColor=white) **New York Times** | $1 per minggu selama 4 tahun | Akses unlimited artikel, podcast, aplikasi mobile premium | [🔗](https://www.nytimes.com/subscription/education) |
 
 ---
 
@@ -36,12 +39,12 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 | Tools | 🕒 Masa Aktif | 🎯 Fitur Utama | 🔗 Link |
 |-------|---------------|----------------|---------|
-| ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png) **GitHub Pro** | Gratis selama mahasiswa | Repository private unlimited, GitHub Copilot, GitHub Actions, GitHub Pages | [🔗](https://education.github.com/pack) |
-| ![JetBrains](https://upload.wikimedia.org/wikipedia/commons/1/1a/JetBrains_Logo_2016.svg) **JetBrains All Products** | Gratis selama mahasiswa, perpanjang tiap tahun | IntelliJ IDEA Ultimate, PyCharm Professional, WebStorm, semua IDE JetBrains | [🔗](https://www.jetbrains.com/student/) |
-| ![Visual Studio](https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg) **Visual Studio Pro** | Gratis selama mahasiswa | IDE lengkap untuk development, debugging tools, integrasi cloud | [🔗](https://visualstudio.microsoft.com/vs/students/) |
-| ![VMware](https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_logo.svg) **VMware Workstation** | Gratis untuk keperluan akademik | Virtualisasi desktop, multiple OS, snapshot, networking tools | [🔗](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html) |
-| ![Namecheap](https://www.namecheap.com/assets/img/nc-icon.svg) **Namecheap Domain** | 1 tahun gratis untuk domain .me | Domain gratis, SSL certificate, shared hosting dengan diskon | [🔗](https://nc.me/) |
-| ![Postman](https://www.postman.com/assets/logos/postman-logo-stacked.svg) **Postman** | Gratis selama mahasiswa | API testing, collaboration tools, monitoring, documentation | [🔗](https://www.postman.com/student-program/) |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) **GitHub Pro** | Gratis selama mahasiswa | Repository private unlimited, GitHub Copilot, GitHub Actions, GitHub Pages | [🔗](https://education.github.com/pack) |
+| ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white) **JetBrains All Products** | Gratis selama mahasiswa, perpanjang tiap tahun | IntelliJ IDEA Ultimate, PyCharm Professional, WebStorm, semua IDE JetBrains | [🔗](https://www.jetbrains.com/student/) |
+| ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) **Visual Studio Pro** | Gratis selama mahasiswa | IDE lengkap untuk development, debugging tools, integrasi cloud | [🔗](https://visualstudio.microsoft.com/vs/students/) |
+| ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white) **VMware Workstation** | Gratis untuk keperluan akademik | Virtualisasi desktop, multiple OS, snapshot, networking tools | [🔗](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html) |
+| ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=flat&logo=namecheap&logoColor=white) **Namecheap Domain** | 1 tahun gratis untuk domain .me | Domain gratis, SSL certificate, shared hosting dengan diskon | [🔗](https://nc.me/) |
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) **Postman** | Gratis selama mahasiswa | API testing, collaboration tools, monitoring, documentation | [🔗](https://www.postman.com/student-program/) |
 
 ---
 
@@ -49,10 +52,9 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 | Tools | 🕒 Masa Aktif | 🎯 Fitur Utama | 🔗 Link |
 |-------|---------------|----------------|---------|
-| ![GitHub Copilot](https://github.githubassets.com/images/modules/copilot/copilot.png) **GitHub Copilot** | Gratis melalui GitHub Student Pack | AI code completion, suggestion, pair programming assistant | [🔗](https://education.github.com/pack) |
-| ![DataCamp](https://www.datacamp.com/datacamp.svg) **DataCamp** | 3 bulan gratis, kemudian diskon 50% | Course Python, R, SQL, machine learning, data science | [🔗](https://www.datacamp.com/students) |
-| ![Wolfram](https://upload.wikimedia.org/wikipedia/commons/2/20/Wolfram_Language_Logo_2016.svg) **Mathematica** | Gratis selama mahasiswa | Computational software, symbolic computation, data visualization | [🔗](https://www.wolfram.com/mathematica/pricing/students/) |
-| ![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png) **MATLAB** | Diskon signifikan untuk mahasiswa | Technical computing, algorithm development, data analysis | [🔗](https://www.mathworks.com/academia/student_version.html) |
+| ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white) **GitHub Copilot** | Gratis melalui GitHub Student Pack | AI code completion, suggestion, pair programming assistant | [🔗](https://education.github.com/pack) |
+| ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=white) **DataCamp** | 3 bulan gratis, kemudian diskon 50% | Course Python, R, SQL, machine learning, data science | [🔗](https://www.datacamp.com/students) |
+| ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) **MATLAB** | Diskon signifikan untuk mahasiswa | Technical computing, algorithm development, data analysis | [🔗](https://www.mathworks.com/academia/student_version.html) |
 
 ---
 
@@ -60,10 +62,10 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 | Tools | 🕒 Masa Aktif | 🎯 Fitur Utama | 🔗 Link |
 |-------|---------------|----------------|---------|
-| ![Adobe](https://upload.wikimedia.org/wikipedia/commons/8/8d/Adobe_Corporate_Logo.svg) **Creative Cloud** | Diskon 60% selama mahasiswa | Photoshop, Illustrator, Premiere Pro, After Effects, semua aplikasi Adobe | [🔗](https://www.adobe.com/id/creativecloud/buy/students.html) |
-| ![Canva](https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg) **Canva Pro** | Gratis selama mahasiswa | Template premium, background remover, brand kit, storage unlimited | [🔗](https://www.canva.com/education/) |
-| ![Figma](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg) **Figma Education** | Gratis selama mahasiswa | Unlimited files, version history, team libraries, advanced prototyping | [🔗](https://www.figma.com/education/) |
-| ![Sketch](https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg) **Sketch** | Diskon 50% untuk mahasiswa | UI/UX design tools, prototyping, collaboration features | [🔗](https://www.sketch.com/store/edu/) |
+| ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white) **Creative Cloud** | Diskon 60% selama mahasiswa | Photoshop, Illustrator, Premiere Pro, After Effects, semua aplikasi Adobe | [🔗](https://www.adobe.com/id/creativecloud/buy/students.html) |
+| ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) **Canva Pro** | Gratis selama mahasiswa | Template premium, background remover, brand kit, storage unlimited | [🔗](https://www.canva.com/education/) |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) **Figma Education** | Gratis selama mahasiswa | Unlimited files, version history, team libraries, advanced prototyping | [🔗](https://www.figma.com/education/) |
+| ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat&logo=sketch&logoColor=white) **Sketch** | Diskon 50% untuk mahasiswa | UI/UX design tools, prototyping, collaboration features | [🔗](https://www.sketch.com/store/edu/) |
 
 ---
 
@@ -71,10 +73,10 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 | Platform | 🕒 Masa Aktif | 💰 Kredit/Benefit | 🎯 Fitur Utama | 🔗 Link |
 |----------|---------------|-------------------|----------------|---------|
-| ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg) **Amazon Web Services** | $100 kredit + AWS Educate | $100 kredit gratis | EC2, S3, RDS, Lambda, layanan cloud computing | [🔗](https://aws.amazon.com/education/awseducate/) |
-| ![Azure](https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg) **Microsoft Azure** | $100 kredit + renewal tahunan | $100 kredit gratis | Virtual machines, databases, AI services, development tools | [🔗](https://azure.microsoft.com/en-us/free/students/) |
-| ![GCP](https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg) **Google Cloud Platform** | $300 kredit untuk pemula | $300 kredit gratis | Compute Engine, Cloud Storage, BigQuery, ML APIs | [🔗](https://cloud.google.com/edu) |
-| ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg) **MongoDB Atlas** | Kredit melalui GitHub Student Pack | $200 kredit | Managed database, analytics, full-text search | [🔗](https://education.github.com/pack) |
+| ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) **Amazon Web Services** | $100 kredit + AWS Educate | $100 kredit gratis | EC2, S3, RDS, Lambda, layanan cloud computing | [🔗](https://aws.amazon.com/education/awseducate/) |
+| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) **Microsoft Azure** | $100 kredit + renewal tahunan | $100 kredit gratis | Virtual machines, databases, AI services, development tools | [🔗](https://azure.microsoft.com/en-us/free/students/) |
+| ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) **Google Cloud Platform** | $300 kredit untuk pemula | $300 kredit gratis | Compute Engine, Cloud Storage, BigQuery, ML APIs | [🔗](https://cloud.google.com/edu) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) **MongoDB Atlas** | Kredit melalui GitHub Student Pack | $200 kredit | Managed database, analytics, full-text search | [🔗](https://education.github.com/pack) |
 
 ---
 
@@ -82,9 +84,9 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 | Tools | 🕒 Masa Aktif | 🎯 Fitur Utama | 🔗 Link |
 |-------|---------------|----------------|---------|
-| ![Cloudflare](https://upload.wikimedia.org/wikipedia/commons/4/4b/Cloudflare_Logo.svg) **Cloudflare** | Gratis melalui GitHub Student Pack | CDN, DNS, DDoS protection, SSL certificates | [🔗](https://education.github.com/pack) |
-| ![NordVPN](https://upload.wikimedia.org/wikipedia/commons/0/0b/NordVPN_logo.svg) **NordVPN** | Diskon hingga 68% untuk mahasiswa | VPN premium, cybersec protection, server global | [🔗](https://nordvpn.com/students/) |
-| ![Wireshark](https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png) **Wireshark** | Gratis dan open source | Network protocol analyzer, packet capture, network troubleshooting | [🔗](https://www.wireshark.org/) |
+| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white) **Cloudflare** | Gratis melalui GitHub Student Pack | CDN, DNS, DDoS protection, SSL certificates | [🔗](https://education.github.com/pack) |
+| ![NordVPN](https://img.shields.io/badge/NordVPN-4687FF?style=flat&logo=nordvpn&logoColor=white) **NordVPN** | Diskon hingga 68% untuk mahasiswa | VPN premium, cybersec protection, server global | [🔗](https://nordvpn.com/students/) |
+| ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) **Wireshark** | Gratis dan open source | Network protocol analyzer, packet capture, network troubleshooting | [🔗](https://www.wireshark.org/) |
 
 ---
 
@@ -92,9 +94,9 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 | Tools | 🕒 Masa Aktif | 🎯 Fitur Utama | 🔗 Link |
 |-------|---------------|----------------|---------|
-| ![Autodesk](https://upload.wikimedia.org/wikipedia/commons/9/9b/Autodesk_logo_and_wordmark.svg) **Fusion 360** | Gratis selama mahasiswa | 3D CAD, CAM, CAE, PCB design tools | [🔗](https://www.autodesk.com/education/edu-software) |
-| ![Arduino](https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg) **Arduino IDE** | Gratis dan open source | Programming environment untuk microcontroller Arduino | [🔗](https://www.arduino.cc/en/software) |
-| 🏭 **SolidWorks** | Gratis melalui program pendidikan ITERA | 3D CAD design, simulation, manufacturing tools | 📧 Hubungi lab/dosen ITERA |
+| ![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=flat&logo=autodesk&logoColor=white) **Fusion 360** | Gratis selama mahasiswa | 3D CAD, CAM, CAE, PCB design tools | [🔗](https://www.autodesk.com/education/edu-software) |
+| ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) **Arduino IDE** | Gratis dan open source | Programming environment untuk microcontroller Arduino | [🔗](https://www.arduino.cc/en/software) |
+| ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white) **SolidWorks** | Gratis melalui program pendidikan ITERA | 3D CAD design, simulation, manufacturing tools | 📧 Hubungi lab/dosen ITERA |
 
 ---
 
@@ -104,18 +106,18 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 | Platform | 🕒 Masa Aktif | 💰 Harga | 🎯 Fitur Utama | 🔗 Link |
 |----------|---------------|----------|----------------|---------|
-| ![Coursera](https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg) **Coursera** | Akses gratis ke course tertentu | Gratis - Berbayar | Sertifikat dari universitas ternama, skill-based courses | [🔗](https://www.coursera.org/student) |
-| ![edX](https://upload.wikimedia.org/wikipedia/commons/c/cd/EdX_logo.svg) **edX** | Course gratis, sertifikat diskon | Gratis - $99 | Course dari MIT, Harvard, universitas top dunia | [🔗](https://www.edx.org/) |
-| ![Udemy](https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg) **Udemy** | Diskon hingga 85% | $9.99 - $199.99 | Programming, design, business, skill development courses | [🔗](https://www.udemy.com/students/) |
+| ![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=flat&logo=coursera&logoColor=white) **Coursera** | Akses gratis ke course tertentu | Gratis - Berbayar | Sertifikat dari universitas ternama, skill-based courses | [🔗](https://www.coursera.org/student) |
+| ![edX](https://img.shields.io/badge/edX-02262B?style=flat&logo=edx&logoColor=white) **edX** | Course gratis, sertifikat diskon | Gratis - $99 | Course dari MIT, Harvard, universitas top dunia | [🔗](https://www.edx.org/) |
+| ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) **Udemy** | Diskon hingga 85% | $9.99 - $199.99 | Programming, design, business, skill development courses | [🔗](https://www.udemy.com/students/) |
 
 ### 🇮🇩 Platform Indonesia
 
 | Platform | 🕒 Masa Aktif | 💰 Harga | 🎯 Fitur Utama | 🔗 Link |
 |----------|---------------|----------|----------------|---------|
-| **Dicoding** | Program beasiswa tersedia | Gratis - Berbayar | Kurikulum standar internasional dari Google, Microsoft, AWS, IBM, dan LINE | [🔗](https://www.dicoding.com) |
-| **Skill Academy** | Diskon untuk mahasiswa | Rp99.000 - Rp500.000 | Kursus bersertifikat dengan mentor profesional | [🔗](https://skillacademy.com/) |
-| **MySkill** | Program beasiswa mahasiswa | Gratis - Rp299.000 | Bootcamp dan kelas praktis untuk karir | [🔗](https://myskill.id/) |
-| **BuildWithAngga** | Diskon mahasiswa tersedia | Rp149.000 - Rp499.000 | Full-stack development, UI/UX Design | [🔗](https://buildwithangga.com/) |
+| ![Dicoding](https://img.shields.io/badge/Dicoding-1F4FFF?style=flat&logo=book&logoColor=white) **Dicoding** | Program beasiswa tersedia | Gratis - Berbayar | Kurikulum standar internasional dari Google, Microsoft, AWS, IBM, dan LINE | [🔗](https://www.dicoding.com) |
+| ![Skill Academy](https://img.shields.io/badge/Skill_Academy-FF6B35?style=flat&logo=graduation-cap&logoColor=white) **Skill Academy** | Diskon untuk mahasiswa | Rp99.000 - Rp500.000 | Kursus bersertifikat dengan mentor profesional | [🔗](https://skillacademy.com/) |
+| ![MySkill](https://img.shields.io/badge/MySkill-4A90E2?style=flat&logo=tools&logoColor=white) **MySkill** | Program beasiswa mahasiswa | Gratis - Rp299.000 | Bootcamp dan kelas praktis untuk karir | [🔗](https://myskill.id/) |
+| ![BuildWithAngga](https://img.shields.io/badge/BuildWithAngga-6C5CE7?style=flat&logo=code&logoColor=white) **BuildWithAngga** | Diskon mahasiswa tersedia | Rp149.000 - Rp499.000 | Full-stack development, UI/UX Design | [🔗](https://buildwithangga.com/) |
 
 ---
 
@@ -154,8 +156,8 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 | 👤 **Informasi** | 📝 **Detail** |
 |------------------|---------------|
 | **Nama** | Muhammad Yusuf Aditiya |
-| **LinkedIn** | [🔗](https://linkedin.com/in/username) |
-| **GitHub** | [🔗](https://github.com/username) |
+| **LinkedIn** | [🔗](https://linkedin.com/in/myfza) |
+| **GitHub** | [🔗](https://github.com/myfza) |
 | **Email** | username@student.itera.ac.id |
 
 ---
