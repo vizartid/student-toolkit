@@ -127,6 +127,7 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 > **⚠️ Disclaimer:** Informasi dalam dokumen ini dapat berubah sewaktu-waktu sesuai kebijakan masing-masing penyedia layanan. Pastikan untuk memeriksa syarat dan ketentuan terbaru sebelum mendaftar.
 ---
 
-> Dibuat oleh Mahasiswa **ITERA** • [@myfza](https://github.com/myfza)  
-> Kontribusi dan pembaruan? **Pull Request** sangat diterima 🎓
+> 🧑‍💻 Dibuat oleh **Muhammad Yusuf Aditiya** (Mahasiswa **ITERA**)  
+> 🔗 GitHub: [@myfza](https://github.com/myfza)  
+> 📬 Kontribusi dan pembaruan? **Pull Request** sangat diterima 🎓
 
