@@ -1,8 +1,4 @@
-| Platform | 🕒 Masa Aktif | 💰 Harga | 🎯 Fitur Utama | 🔗 Link |
-|----------|---------------|----------|----------------|---------|
-| ![Dicoding](https://img.shields.io/badge/Dicoding-1F4FFF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCAxMEwxMy4wOSAxNS43NEwxMiAyMkwxMC45MSAxNS43NEw0IDEwTDEwLjkxIDguMjZMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white) **Dicoding** | Program beasiswa tersedia | Gratis - Berbayar | Kurikulum standar internasional dari Google, Microsoft, AWS, IBM, dan LINE | [🔗](https://www.dicoding.com) |
-| ![Skill Academy](https://img.shields.io/badge/Skill_Academy-FF6B35?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCAxMEwxMy4wOSAxNS43NEwxMiAyMkwxMC45MSAxNS43NEw0IDEwTDEwLjkxIDguMjZMMTIgMloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white) **Skill Academy** | Diskon untuk mahasiswa | Rp99.000 - Rp500.000 | Kursus bersertifikat dengan mentor profesional | [🔗](https://skillacademy.com/) |
-| ![MySkill](https://img.shields.io/badge/MySkill-4A90E2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCAx# ✨ Student Plan untuk Mahasiswa ITERA ✨
+# 🎓 Student Plan untuk Mahasiswa ITERA 
 
 Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang menawarkan akses gratis atau diskon besar khusus untuk mahasiswa Institut Teknologi Sumatera (ITERA) melalui program student plan. Semua layanan dapat diakses menggunakan email institusi `@student.itera.ac.id`.
 
