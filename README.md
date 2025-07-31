@@ -48,7 +48,7 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 | Tools | 🕒 Masa Aktif | 🎯 Fitur Utama | 🔗 Link |
 |-------|---------------|----------------|---------|
 | ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white) **GitHub Copilot** | Gratis melalui GitHub Student Pack | AI code completion, suggestion, pair programming assistant | [🔗](https://education.github.com/pack) |
-| ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=white) **DataCamp** | 3 bulan gratis, kemudian diskon 50% Free akses penuh lewat Classrooms oleh guru/dosen | Course Python, R, SQL, machine learning, data science | [🔗](https://www.datacamp.com/github-students) |
+| ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat&logo=datacamp&logoColor=white) **DataCamp** | 3 bulan gratis, kemudian diskon 50% Atau Free akses penuh lewat Classrooms oleh guru/dosen | Course Python, R, SQL, machine learning, data science | [🔗](https://www.datacamp.com/github-students) |
 | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) **MATLAB** | Diskon signifikan untuk mahasiswa | Technical computing, algorithm development, data analysis | [🔗](https://www.mathworks.com/academia/student_version.html) |
 
 ---
