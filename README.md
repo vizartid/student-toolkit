@@ -123,17 +123,6 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 ---
 
-## 🧑‍💻 Tentang Pembuat
-
-| 👤 **Informasi** | 📝 **Detail** |
-|------------------|---------------|
-| **Nama** | Muhammad Yusuf Aditiya |
-| **LinkedIn** | [🔗](https://linkedin.com/in/myfza) |
-| **GitHub** | [🔗](https://github.com/myfza) |
-| **Email** | username@student.itera.ac.id |
-
----
-
 ## 📈 Update Log
 
 | 📅 **Tanggal** | 🔄 **Perubahan** | 👤 **Editor** |
@@ -144,6 +133,7 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 ---
 
+> Dibuat oleh Mahasiswa **ITERA** • [@myfza](https://github.com/myfza)  
+> Kontribusi dan pembaruan? **Pull Request** sangat diterima 🎓
 > **⚠️ Disclaimer:** Informasi dalam dokumen ini dapat berubah sewaktu-waktu sesuai kebijakan masing-masing penyedia layanan. Pastikan untuk memeriksa syarat dan ketentuan terbaru sebelum mendaftar.
-
 > **🔄 Last Updated:** 31 Juli 2025 | **📧 Contact:** Jika ada pertanyaan atau saran, silakan hubungi melalui email institusi ITERA.
