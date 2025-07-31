@@ -101,7 +101,7 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 | Platform | 🕒 Masa Aktif | 💰 Harga | 🎯 Fitur Utama | 🔗 Link |
 |----------|---------------|----------|----------------|---------|
-| ![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=flat&logo=coursera&logoColor=white) **Coursera** | Akses gratis ke course tertentu | Gratis - Berbayar | Sertifikat dari universitas ternama, skill-based courses | [🔗](https://www.coursera.org/student) |
+| ![Coursera](https://img.shields.io/badge/Coursera-0056D3?style=flat&logo=coursera&logoColor=white) **Coursera** | Akses gratis ke course tertentu | Gratis - Berbayar | Sertifikat dari universitas ternama, skill-based courses | [🔗](https://www.coursera.org/campus/learn-more) |
 | ![edX](https://img.shields.io/badge/edX-02262B?style=flat&logo=edx&logoColor=white) **edX** | Course gratis, sertifikat diskon | Gratis - $99 | Course dari MIT, Harvard, universitas top dunia | [🔗](https://www.edx.org/) |
 | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) **Udemy** | Diskon hingga 85% | $9.99 - $199.99 | Programming, design, business, skill development courses | [🔗](https://www.udemy.com/students/) |
 
