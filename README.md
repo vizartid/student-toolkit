@@ -1,6 +1,6 @@
-# 🎓 Student Plan untuk Mahasiswa ITERA 
+# 🎓 Student Plan untuk Mahasiswa Baru 
 
-Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang menawarkan akses gratis atau diskon besar khusus untuk mahasiswa Institut Teknologi Sumatera (ITERA) melalui program student plan. Semua layanan dapat diakses menggunakan email institusi `@student.itera.ac.id`.
+Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang menawarkan akses gratis atau diskon besar khusus untuk mahasiswa baru melalui program student plan. Semua layanan dapat diakses menggunakan email institusi `@student.(Nama kampus).ac.id`.
 
 ---
 
@@ -100,7 +100,7 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 
 | 🔍 **Langkah Verifikasi** | ✅ **Checklist** |
 |---------------------------|------------------|
-| **📧 Email Institusi** | ✅ Gunakan email `@student.itera.ac.id` saat mendaftar |
+| **📧 Email Institusi** | ✅ Gunakan email `@student.(Nama Kampus).ac.id` saat mendaftar |
 | **📄 Dokumen Pendukung** | ✅ Siapkan kartu mahasiswa, transkrip nilai, surat keterangan mahasiswa aktif |
 | **🔄 Verifikasi Berkala** | ✅ Lakukan verifikasi ulang setiap semester atau tahun sesuai kebijakan |
 | **📖 Syarat dan Ketentuan** | ✅ Baca dan pahami durasi masa aktif serta cara perpanjangan |
