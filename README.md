@@ -92,7 +92,7 @@ Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang men
 |-------|---------------|----------------|---------|
 | ![Autodesk](https://img.shields.io/badge/Autodesk-0696D7?style=flat&logo=autodesk&logoColor=white) **Fusion 360** | Gratis selama mahasiswa | 3D CAD, CAM, CAE, PCB design tools | [🔗](https://www.autodesk.com/education/edu-software) |
 | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) **Arduino IDE** | Gratis dan open source | Programming environment untuk microcontroller Arduino | [🔗](https://www.arduino.cc/en/software) |
-| ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white) **SolidWorks** | Gratis melalui program pendidikan ITERA | 3D CAD design, simulation, manufacturing tools | 📧 Hubungi lab/dosen ITERA |
+| ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=solidworks&logoColor=white) **SolidWorks** | Gratis melalui program pendidikan ITERA | 3D CAD design, simulation, manufacturing tools | 📧 Hubungi lab/dosen |
 
 ---
 
