@@ -1,6 +1,6 @@
 # 🎓 Toolkit Digital untuk Mahasiswa Baru 
 
-Dokumen ini berisi daftar lengkap website, software, dan tools berbayar yang menawarkan akses gratis atau diskon besar khusus untuk mahasiswa baru melalui program student plan. Semua layanan dapat diakses menggunakan email institusi `@student.(Nama kampus).ac.id`.
+Dokumen ini berisi daftar website, software, dan tools berbayar yang menawarkan akses gratis atau diskon besar khusus untuk mahasiswa baru melalui program student plan. Semua layanan dapat diakses menggunakan email institusi `@student.(Nama kampus).ac.id`.
 
 ---
 
