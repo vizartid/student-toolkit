@@ -107,8 +107,6 @@ Dokumen ini berisi daftar website, software, dan tools berbayar yang menawarkan 
 | **🎒 GitHub Student Pack** | ✅ Manfaatkan untuk mendapatkan banyak tools developer gratis |
 | **💾 Simpan Bukti** | ✅ Screenshot atau email konfirmasi untuk keperluan masa depan |
 | **🎓 Update Status** | ✅ Pastikan status mahasiswa aktif di sistem ITERA |
-| **🌍 VPN (Optional)** | ✅ Gunakan VPN jika layanan tidak tersedia di Indonesia |
-
 ---
 
 ## 📊 Ringkasan Kategori
