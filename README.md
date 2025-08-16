@@ -22,7 +22,7 @@ Dokumen ini berisi daftar website, software, dan tools berbayar yang menawarkan 
 
 | Tools | 🕒 Masa Aktif | 🎯 Fitur Utama | 🔗 Link |
 |-------|---------------|----------------|---------|
-| ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white) **Notion Gemini** | Gratis selamanya untuk mahasiswa | Workspace unlimited, akses Gemini 2.5 Pro, lebih dari 30 tools AI pendidikan, kolaborasi tim tanpa batas | [🔗](https://blog.google/outreach-initiatives/education/gemini-iste-2025) |
+| ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white) **Notion Gemini** | Gratis selamanya untuk mahasiswa | Workspace unlimited, akses Gemini 2.5 Pro, lebih dari 30 tools AI pendidikan, kolaborasi tim tanpa batas | [🔗](https://edu.google.com/ai/gemini-for-education/) |
 | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) **Notion** | Gratis selamanya selama mahasiswa | Workspace unlimited, integrasi premium, template eksklusif, kolaborasi tim tanpa batas | [🔗](https://www.notion.so/product/notion-for-education) |
 | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white) **Office 365** | Gratis selama status mahasiswa aktif | Word, Excel, PowerPoint, Teams, OneDrive 1TB, Outlook, aplikasi Office premium | [🔗](https://www.microsoft.com/id-id/education/products/office) |
 | ![1Password](https://img.shields.io/badge/1Password-0094F5?style=flat&logo=1password&logoColor=white) **1Password** | 6 bulan gratis, dapat diperpanjang | Password manager premium, secure sharing, travel mode, advanced security | [🔗](https://1password.com/developers/students) |
