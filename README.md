@@ -127,6 +127,4 @@ Dokumen ini berisi daftar website, software, dan tools berbayar yang menawarkan 
 ---
 
 > 🧑‍💻 Dibuat oleh **Muhammad Yusuf Aditiya** (Mahasiswa **ITERA**)  
-> 🔗 GitHub: [@myfza](https://github.com/myfza)  
-> 📬 Kontribusi dan pembaruan? **Pull Request** sangat diterima 🎓
 
