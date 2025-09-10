@@ -123,7 +123,7 @@ Dokumen ini berisi daftar website, software, dan tools berbayar yang menawarkan 
 | 🤖 **Automation** | 3 tools | Fusion 360, Arduino IDE, SolidWorks |
 
 ---
-> **⚠️ Disclaimer:** Informasi dalam dokumen ini dapat berubah sewaktu-waktu sesuai kebijakan masing-masing penyedia layanan. Pastikan untuk memeriksa syarat dan ketentuan terbaru sebelum mendaftar.
+> **⚠️ Disclaimer:** Informasi ini dapat berubah sewaktu-waktu sesuai kebijakan masing-masing penyedia layanan. Pastikan untuk memeriksa syarat dan ketentuan terbaru sebelum mendaftar.
 ---
 
 > 🧑‍💻 Dibuat oleh **Muhammad Yusuf Aditiya** (Mahasiswa **ITERA**)  
